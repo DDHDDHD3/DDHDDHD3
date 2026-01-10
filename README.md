@@ -1,4 +1,6 @@
 # 💫 About Me:
+<img src="./Programmer Modern.png" alt="Programmer Modern" width="100%" />
+
 ## 👨‍💻 About Me<br><br>I am a passionate **Frontend / Full-Stack Developer** with a strong focus on building modern, responsive, and user-centric web applications. I enjoy turning ideas into clean, functional interfaces while paying close attention to performance, accessibility, and UI/UX best practices.<br><br>I work primarily with **JavaScript and TypeScript**, using frameworks such as **React, Next.js, and Angular** to develop scalable applications. I am comfortable integrating APIs, working with databases, and deploying applications to cloud platforms.<br><br>I continuously improve my skills by learning new technologies, building real-world projects, and following modern development standards. I value clean code, collaboration, and creating solutions that provide real value to users.<br>
 
 
